@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cep-promise": "^4.4.0",
+    "cpf-check": "^3.0.0"
+  }
+}
